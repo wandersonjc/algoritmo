@@ -10,7 +10,7 @@ Var
    N1, N2, MD: real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// Alterei
    Escreva ("Digite seu nome: ")
    Leia (Nome)
    Escreva ("Digite a 1ª nota: ")
