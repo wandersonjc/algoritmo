@@ -13,8 +13,9 @@ Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc... 
    Escreva ("Digite seu nome: ")
    Leia (Nome)
-   Escreva ("Digite as notas: ")
+   Escreva ("Digite a 1ª nota: ")
    Leia (N1)
+   Escreva ("Digite a 1ª nota: ")
    Leia (N2)
    MD <- (N1+N2)/2
    Escreva("O resultado foi: ", MD)
