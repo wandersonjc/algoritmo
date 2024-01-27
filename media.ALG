@@ -1,11 +1,11 @@
 Algoritmo "semnome"
-// Disciplina   : [Linguagem e Lógica de Programação]
+// Disciplina   : [Linguagem e Lï¿½gica de Programaï¿½ï¿½o]
 // Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Descriï¿½ï¿½o   : Aqui vocï¿½ descreve o que o programa faz! (funï¿½ï¿½o)
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 27/01/2024
 Var
-// Seção de Declarações das variáveis 
+// Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis 
    Nome: caracte
    N1, N2, MD: real
 
@@ -13,9 +13,9 @@ Inicio
 // Alterei
    Escreva ("Digite seu nome: ")
    Leia (Nome)
-   Escreva ("Digite a 1ª nota: ")
+   Escreva ("Digite a 1ï¿½ nota: ")
    Leia (N1)
-   Escreva ("Digite a 1ª nota: ")
+   Escreva ("Digite a 1ï¿½ nota: ")
    Leia (N2)
    MD <- (N1+N2)/2
    Escreva("O resultado foi: ", MD)
